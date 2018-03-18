@@ -1,0 +1,6 @@
+sum：
+1.使用vue-cli脚手架构建项目；
+2.整合components、router、store、resource；
+3.根组件app.vue关联Auth.vue\Content.vue组件；
+4.Auth后台验证登录切换前端路由；Content定义四个界面，通过路由动态渲染切换视图；
+5.com渲染界面；router关联路由和试图组件；store管理所有组件状态变化和事件；resource发送请求；
